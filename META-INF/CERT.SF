@@ -1,0 +1,28 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: Rk69R60Qk6xERAYCiIC5GHNHFVY=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: A1e3bS87qeP0suypQEZd5JkBY8E=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: DPm5sGyP/V6qTtGCpECfuTcZhz8=
+
+Name: system/app/LatinIME/LatinIME.apk
+SHA1-Digest: tSin8aHEGi/9THrt8LOgrpM6q1I=
+
+Name: system/framework/ime.jar
+SHA1-Digest: vK9g2hzazyrzn5CXm2GbV2nJnq4=
+
+Name: system/lib/libjni_latinime.so
+SHA1-Digest: wT7KrtF2fvHqHsFG+JlhzO/6xc8=
+
+Name: system/app/LatinIME/lib/arm/libjni_latinimegoogle.so
+SHA1-Digest: btrEVLpB2hMwg6E48D1CzmayGdk=
+
+Name: system/lib/libjni_latinimegoogle.so
+SHA1-Digest: T2L44UYDjjKabPz0vYhUjCuMdFs=
+
+Name: system/app/LatinIME/lib/arm/libjni_latinime.so
+SHA1-Digest: wOkgpdaXQlI+TDCpaRRpFs3YK9A=
+
